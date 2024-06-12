@@ -1,0 +1,23 @@
+names:
+- Coca-Cola
+- Doritos
+- Fanta
+- Good-Luck
+- Lay-s-original
+- Liquor
+- Mountain-Dew
+- Oreo
+- Pocky
+- Pringles
+- Sprite
+- Water
+nc: 12
+roboflow:
+  license: Private
+  project: twelveobject
+  url: https://universe.roboflow.com/yuming-dwoo0/twelveobject/dataset/3
+  version: 3
+  workspace: yuming-dwoo0
+test: C:\Users\weili\OneDrive\桌面\Code\dataset_8x\test\images
+train: C:\Users\weili\OneDrive\桌面\Code\dataset_8x\train\images
+val: C:\Users\weili\OneDrive\桌面\Code\dataset_8x\val\images
